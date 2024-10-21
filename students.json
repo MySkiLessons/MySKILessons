@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Иванов Иван",
+        "phone": "+7(999)123-45-67",
+        "photo": "kpp_02.jpg",
+        "progress": "Задний кант",
+        "trustability": "Опаздал",
+        "notes": "zametochka2",
+        "parent": "",
+        "children": "Сидорова Анна",
+        "id": "s0001"
+    },
+    {
+        "name": "Петров Петр",
+        "phone": "+7 (999) 234-56-78",
+        "photo": "kpp_02.jpg",
+        "progress": "Боксоска",
+        "trustability": "Опаздал",
+        "notes": "Человек хороший, но нервный)",
+        "parent": "",
+        "children": "Сидорова Анна",
+        "id": "s0002"
+    },
+    {
+        "name": "Сидорова Анна",
+        "phone": "+7 (999) 345-67-89",
+        "photo": "kpp_02.jpg",
+        "progress": "-",
+        "trustability": "Опаздал",
+        "notes": "zametochka",
+        "parent": "-",
+        "children": "Сидорова Анна",
+        "id": "s0003"
+    },
+    {
+        "name": "Кузнецов Алексей",
+        "phone": "+7 (999) 456-78-90",
+        "photo": "kpp_02.jpg",
+        "progress": "-",
+        "trustability": "Опаздал",
+        "notes": "zametochka",
+        "parent": "",
+        "children": "Сидорова Анна",
+        "id": "s0004"
+    },
+    {
+        "name": "Алёша",
+        "phone": "+79529458906 ",
+        "photo": "kpp_02.jpg",
+        "progress": "-",
+        "trustability": "-",
+        "notes": "zametochka",
+        "parent": "-",
+        "children": "Сидорова Анна",
+        "id": "s0005"
+    },
+    {
+        "name": "Сюзанна",
+        "phone": "+79838520705",
+        "photo": "kpp_02.jpg",
+        "progress": "-",
+        "trustability": "Опаздал",
+        "notes": "zametochka",
+        "parent": "-",
+        "children": "Сидорова Анна",
+        "id": "s0006"
+    },
+    {
+        "name": "Jonny",
+        "phone": "+79538782576",
+        "photo": "kpp_02.jpg",
+        "progress": "-",
+        "trustability": "-",
+        "notes": "zametochka",
+        "parent": "-",
+        "children": "Сидорова Анна",
+        "id": "s0007"
+    },
+    {
+        "name": "Ntcn1 ",
+        "phone": "+72568760923",
+        "photo": "kpp_02.jpg",
+        "progress": "-",
+        "trustability": "опаздал",
+        "notes": "zametochka",
+        "parent": "-",
+        "children": "Сидорова Анна",
+        "id": "s0008"
+    },
+    {
+        "name": "Рубэн большой хуй",
+        "phone": "+799875431",
+        "photo": "kpp_02.jpg",
+        "progress": "-",
+        "trustability": "-",
+        "notes": "zametochka",
+        "parent": "-",
+        "children": "Сидорова Анна",
+        "id": "s0009"
+    },
+    {
+        "name": "Валя Николаева",
+        "phone": "+79567486701"
+    }
+]

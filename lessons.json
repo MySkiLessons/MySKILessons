@@ -1,0 +1,157 @@
+[
+    {
+        "date": "15.10.2024",
+        "time": "11:32",
+        "student": [
+            "Кузнецов Алексей",
+            "Анна Ефимова"
+        ],
+        "subscription": "True",
+        "duration": "2",
+        "price": "1000",
+        "lesson_id": "1"
+    },
+    {
+        "date": "14.10.2024",
+        "time": "09:45",
+        "student": [
+            "Jonny"
+        ],
+        "subscription": "True",
+        "duration": "1",
+        "price": "2000",
+        "lesson_id": "2"
+    },
+    {
+        "date": "14.10.2024",
+        "time": "10:00",
+        "student": [
+            "Петров Петр",
+            "Алёша"
+        ],
+        "subscription": "True",
+        "duration": "2",
+        "price": "4000",
+        "lesson_id": "3"
+    },
+    {
+        "date": "10.10.2024",
+        "time": "08:45",
+        "student": [
+            "Иванов Иван"
+        ],
+        "subscription": "True",
+        "duration": "3",
+        "price": "400",
+        "lesson_id": "4"
+    },
+    {
+        "date": "08.04.2024",
+        "time": "08:45",
+        "student": [
+            "Иванов Иван"
+        ],
+        "subscription": "True",
+        "duration": "1",
+        "price": "50",
+        "lesson_id": "5"
+    },
+    {
+        "date": "15.10.2024",
+        "time": "09:00",
+        "student": [
+            "Иванов Иван"
+        ],
+        "subscription": "True",
+        "duration": "3",
+        "price": "600",
+        "lesson_id": "6"
+    },
+    {
+        "date": "16.10.2024",
+        "time": "11:00",
+        "student": [
+            "Рубэн большой хуй"
+        ],
+        "subscription": "True",
+        "duration": "3",
+        "price": "1000000",
+        "lesson_id": "7"
+    },
+    {
+        "date": "17.10.2024",
+        "time": "09:00",
+        "student": [
+            "Алёша",
+            "Jonny"
+        ],
+        "subscription": "True",
+        "duration": "4",
+        "price": "700",
+        "lesson_id": "8"
+    },
+    {
+        "date": "23.10.2024",
+        "time": "08:00",
+        "student": [
+            "Иванов Иван"
+        ],
+        "subscription": "True",
+        "duration": "4",
+        "price": "500",
+        "id": "9"
+    },
+    {
+        "date": "24.10.2024",
+        "time": "09:00",
+        "student": [
+            "Иванов Иван"
+        ],
+        "subscription": "True",
+        "duration": "4",
+        "price": "900",
+        "id": "10"
+    },
+    {
+        "date": "19.10.2024",
+        "time": "09:00",
+        "student": [
+            "Петров Петр"
+        ],
+        "subscription": "True",
+        "duration": "2",
+        "price": "500"
+    },
+    {
+        "date": "21.10.2024",
+        "time": "08:00",
+        "student": [
+            "Сидорова Анна"
+        ],
+        "subscription": "True",
+        "duration": "1",
+        "price": "500"
+    },
+    {
+        "date": "23.10.2024",
+        "time": "13:45",
+        "student": [
+            "Алёша",
+            "Jonny"
+        ],
+        "subscription": "False",
+        "duration": "2",
+        "price": "700"
+    },
+    {
+        "date": "22.10.2024",
+        "time": "11:00",
+        "student": [
+            "Кузнецов Алексей",
+            "Рубэн большой хуй"
+        ],
+        "subscription": "True",
+        "duration": "3",
+        "price": "900"
+    }
+]
